@@ -1,0 +1,157 @@
+SHOEB SALIM BAGWAN
+
+bagwanshoeb0313@gmail.com 
+
++91 8605706751 
+
+Linkedin 
+
+GitHub 
+
+Leetcode 
+
+HackerRank 
+
+Burud Galli, Killa Bhag, Manglwedha, Dist. Solapur, Maharashtra, India 
+
+SUMMARY
+
+Motivated Computer Science student with strong Python development skills and experience in building web 
+applications, automation scripts, and data-driven solutions. Skilled in Django, MySQL, API integration, and 
+writing clean, efficient code. Strong problem-solving abilities with hands-on project experience and 
+community leadership. Seeking opportunities to grow as a Python Developer in a professional environment.
+
+EXPERIENCE
+
+Department Coordinator, Orchid Innovation Club
+Club dedicated to fostering student innovation, creativity, and skill development.
+
+09/2024 – 09/2025
+Solapur, Maharashtra
+
+Training Participant, Zensar ESD Program
+ESD program with a focus on IT fundamentals
+
+Intern, Eminence Skill Development
+Skill development training program
+
+EDUCATION
+
+B.Tech in Computer Science Engineering, 
+N. K. Orchid College of Engineering and Technology
+
+HSC, English School Jr. College, Manglwedha
+
+SSC, English School, Manglwedha
+
+03/2025 – 03/2025
+
+08/2023 – 09/2023
+Solapur, Maharashtra
+
+11/2022 – Present
+Solapur, Maharashtra
+
+06/2021 – 03/2022
+Manglwedha
+
+06/2019 – 03/2020
+Manglwedha
+
+SKILLS
+
+Programming Languages:
+Python, Java , C 
+
+Databases:
+MySQL, MongoDB
+
+Web Tools
+HTML, CSS, JS, Django 
+
+Tools
+GitHub, VS Code, Power BI, EdrawMax
+
+Concepts:
+Data Structures and Algorithms, DBMS, Operating 
+Systems , NLP, Machine Learning, Sentiment Analysis 
+
+Behavioural Skills
+Leadership, Analytical Thinking, optimistic , Problem 
+Solving
+
+PROJECTS
+
+Agri Marketplace, Digital Platform for Direct Farmer-to-Buyer Crop Sales
+•Built using HTML, CSS, JavaScript, Django, MySQL with secure login.
+•Created price trend dashboards in Power BI.
+
+09/2025
+
+AI-Powered Forex Trading System, 
+AI-based system for analyzing forex markets and automating trading strategies.
+•Developed a system using Machine Learning, NLP, and Computer Vision to 
+analyze economic news, social sentiment, and central bank signals.
+•Created trading bots for technical analysis and combined insights with 
+fundamental analysis to improve trade decisions.
+
+01/2025
+
+ROADWATCH-AI:, Co-inventor of a patented hybrid AI system
+
+05/2025
+
+•Developed a hybrid system integrating Distributed Fiber Optic Sensors, Inertial 
+Measurement Units, and satellite imagery for real-time road pavement health 
+monitoring and anomaly detection.
+
+IPL Data Visualization, Data visualization project focusing on IPL datasets
+
+11/2024
+
+CERTIFICATION
+
+GenAI Cloud Study Jam - GDSC India
+Completed
+
+SQL (intermediate), HackerRank
+
+Certificate in Web Development
+1-Month Internship in Web Development and Designing
+
+Introduction to Python Programming, Coursera
+
+DBMS-NPTEL, 8-week course
+
+KEY ACHIEVEMENTS
+
+05/2024
+
+01/2025
+
+10/2024
+
+Team Leadership, Led a team of 15+ members during Soft Skills Training
+
+08/2023
+
+Technical Achievement
+Achieved Standard Milestone in Arcade Cloud Skills Certification, displaying strong 
+commitment to cloud technologies
+
+Community Service, Active member of NSS and department coordinator
+
+08/2023 – 08/2024
+
+LANGUAGES
+
+English
+Fluent
+
+Hindi
+Proficient
+
+Marathi
+Proficient
+
+

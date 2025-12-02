@@ -1,1 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Shoeb Bagwan — Portfolio</title>
+  <meta name="description" content="Shoeb Bagwan — Python Full Stack Developer & Aspiring Data Scientist. Portfolio of projects, skills and contact." />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="icon" href="assets/images/favicon.png" />
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <!-- Background blobs -->
+  <div class="bg-blob b1" aria-hidden="true"></div>
+  <div class="bg-blob b2" aria-hidden="true"></div>
+
+  <header class="site-header container">
+    <a class="brand" href="#home" aria-label="Home">
+      <div class="logo">SB</div>
+      <div class="brand-text">
+        <div class="name">Shoeb Bagwan</div>
+        <div class="role">Python Full Stack • Aspiring Data Scientist</div>
+      </div>
+    </a>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#experience-training">Experience & Training</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact" class="btn-ghost">Contact</a>
+      <button id="themeToggle" class="btn-icon" title="Toggle theme" aria-pressed="false">🌓</button>
+      <a id="resumeBtn" class="btn-primary" href="assets/SHOEB-Python.pdf" download="SHOEB-Python.pdf">Resume</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <!-- HERO -->
+    <section id="home" class="hero reveal">
+      <div class="hero-left">
+        <h1>Hi, I’m <span class="accent">Shoeb</span></h1>
+        <p class="lead">I build fast, maintainable web apps and data tools — from pixel-perfect frontends to reliable backends. I love mentoring, learning, and shipping production-ready projects.</p>
+        <div class="hero-ctas">
+          <a class="btn-primary" href="#projects">View Projects</a>
+          <a class="btn-ghost" href="#contact">Hire Me</a>
+        </div>
+
+        <div class="socials">
+          <a href="https://github.com/shoebbagwan0313" aria-label="GitHub">GitHub</a>
+          <a href="https://linkedin.com/in/shoebbagwan" aria-label="LinkedIn">LinkedIn</a>
+          <a href="mailto:bagwanshoeb0313@gmail.com" aria-label="Email">Email</a>
+        </div>
+      </div>
+
+      <aside class="profile-card reveal" aria-label="Profile card">
+        <div class="avatar" aria-hidden="false">
+          <img class="avatar-img" src="assets/images/passport%20size%20photo.png" alt="Photo of Shoeb Bagwan">
+        </div>
+        <div class="meta">
+          <div class="meta-name">Shoeb Bagwan</div>
+          <div class="meta-sub">B.Tech CSE • Python Full Stack</div>
+          <div class="pill-group">
+            <span class="pill">HTML</span>
+            <span class="pill">CSS</span>
+            <span class="pill">JavaScript</span>
+            <span class="pill">Python</span>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section card reveal">
+      <h2 class="section-title">About</h2>
+      <div class="about-grid">
+        <div>
+          <p>I'm a B.Tech Computer Science student passionate about building <strong>scalable web applications</strong> that solve real problems. I focus on crafting <strong>clean, user-centric interfaces</strong> paired with <strong>maintainable code architecture</strong> — combining strong problem-solving skills with a commitment to continuous learning and best practices.</p>
+          <p>My approach: design for the user experience, code for scalability, and always stay curious about emerging technologies and modern development patterns.</p>
+          <p><strong>Education:</strong> B.Tech Computer Science • <strong>Location:</strong> Maharashtra, India</p>
+        </div>
+        
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section reveal">
+      <div class="section-header">
+        <h2 class="section-title">Projects</h2>
+        <span class="muted">Featured work</span>
+      </div>
+
+      <div class="grid projects-grid">
+        <!-- Agri Marketplace -->
+        <article class="project-card card">
+          <div class="thumb" aria-hidden="true">Agri</div>
+          <h3 class="project-title">Agri Marketplace</h3>
+          <p class="muted">Digital platform for direct farmer-to-buyer crop sales. Built using HTML, CSS, JavaScript, Django and MySQL with secure login and order flows. Created price trend dashboards in Power BI.</p>
+          <div class="tags">HTML • CSS • JavaScript • Django • MySQL • Power BI</div>
+        </article>
+
+        <!-- AI Forex -->
+        <article class="project-card card">
+          <div class="thumb" aria-hidden="true">Forex</div>
+          <h3 class="project-title">AI-Powered Forex Trading System</h3>
+          <p class="muted">AI-based system analyzing news, sentiment and market data to automate trading strategies. Implemented ML models, NLP pipelines and trading bots for technical analysis.</p>
+          <div class="tags">Python • ML • NLP • Trading • Automation</div>
+        </article>
+
+        <!-- ROADWATCH-AI -->
+        <article class="project-card card">
+          <div class="thumb" aria-hidden="true">Road</div>
+          <h3 class="project-title">ROADWATCH-AI</h3>
+          <p class="muted">Co-inventor of a patented hybrid AI system integrating fiber-optic sensors, IMUs and satellite imagery for real-time road pavement health monitoring and anomaly detection.</p>
+          <div class="tags">Sensor Fusion • CV • Remote Sensing • Patent</div>
+        </article>
+
+        <!-- IPL Viz -->
+        <article class="project-card card">
+          <div class="thumb" aria-hidden="true">IPL</div>
+          <h3 class="project-title">IPL Data Visualization</h3>
+          <p class="muted">Data visualization project focusing on IPL datasets — interactive dashboards and insights using visualization libraries and CSV data pipelines.</p>
+          <div class="tags">Data Viz • Python • Power BI</div>
+        </article>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills" class="section reveal">
+      <h2 class="section-title">Skills</h2>
+      <div class="grid skills-grid card">
+        <div>
+          <h3>Programming Languages</h3>
+          <div class="skill-row">
+            <div class="skill-name">Python</div>
+            <div class="bar"><div class="fill" data-fill="90"></div></div>
+          </div>
+          <div class="skill-row">
+            <div class="skill-name">Java</div>
+            <div class="bar"><div class="fill" data-fill="65"></div></div>
+          </div>
+          <div class="skill-row">
+            <div class="skill-name">C</div>
+            <div class="bar"><div class="fill" data-fill="60"></div></div>
+          </div>
+        </div>
+
+        <div>
+          <h3>Tools & Concepts</h3>
+          <ul class="muted">
+            <li><strong>Web:</strong> HTML, CSS, JavaScript, Django</li>
+            <li><strong>Databases:</strong> MySQL, MongoDB</li>
+            <li><strong>Tools:</strong> GitHub, VS Code, Power BI, EdrawMax</li>
+            <li><strong>Concepts:</strong> DSA, DBMS, OS, NLP, Machine Learning, Sentiment Analysis</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- CERTIFICATIONS -->
+    <section id="certifications" class="section card reveal">
+      <h2 class="section-title">Certifications</h2>
+      <div class="grid achievement-grid">
+        <div class="card">
+          <h4>GenAI Cloud Study Jam - GDSC India</h4>
+          <p class="muted">Completed comprehensive training on generative AI cloud technologies through Google Developer Student Clubs initiative.</p>
+        </div>
+
+        <div class="card">
+          <h4>SQL (Intermediate) - HackerRank</h4>
+          <p class="muted">Certified in intermediate SQL skills with practical database query and optimization expertise.</p>
+        </div>
+
+        <div class="card">
+          <h4>Certificate in Web Development</h4>
+          <p class="muted">1-month internship certificate in web development and designing with hands-on full-stack project experience.</p>
+        </div>
+
+        <div class="card">
+          <h4>Introduction to Python Programming - Coursera</h4>
+          <p class="muted">Completed foundational Python programming course covering syntax, data structures, and core concepts.</p>
+        </div>
+
+        <div class="card">
+          <h4>DBMS - NPTEL</h4>
+          <p class="muted">8-week course on Database Management Systems covering design, normalization, and query optimization.</p>
+        </div>
+
+        <div class="card">
+          <h4>Arcade Cloud Skills Certification</h4>
+          <p class="muted">Achieved Standard Milestone certification in cloud skills demonstrating proficiency in cloud platforms and services.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- EXPERIENCE & TRAINING -->
+    <section id="experience-training" class="section card reveal">
+      <h2 class="section-title">Experience & Training</h2>
+      <div class="timeline">
+        <div class="timeline-item">
+          <h4>Department Coordinator, Orchid Innovation Club (09/2024 – 09/2025)</h4>
+          <p class="muted">Club dedicated to fostering student innovation, creativity, and skill development.</p>
+        </div>
+        <div class="timeline-item">
+          <h4>Training Participant, Zensar ESD Program (03/2025 – 03/2025)</h4>
+          <p class="muted">ESD program with a focus on IT fundamentals and professional skill development.</p>
+        </div>
+        <div class="timeline-item">
+          <h4>Intern, Eminence Skill Development (08/2023 – 09/2023)</h4>
+          <p class="muted">Skill development training program with hands-on experience in web and automation projects.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ACHIEVEMENTS -->
+    <section id="achievements" class="section card reveal">
+      <h2 class="section-title">Achievements</h2>
+      <div class="grid achievement-grid">
+        <div class="card">
+          <h4>Team Leadership (08/2023)</h4>
+          <p class="muted">Led a team of 15+ members during Soft Skills Training program, demonstrating strong leadership and mentoring capabilities.</p>
+        </div>
+
+        <div class="card">
+          <h4>Technical Achievement (08/2023 – 08/2024)</h4>
+          <p class="muted">Achieved Standard Milestone in Arcade Cloud Skills Certification, displaying strong commitment to cloud technologies and continuous learning.</p>
+        </div>
+
+        <div class="card">
+          <h4>Community Service</h4>
+          <p class="muted">Active member of NSS (National Service Scheme) and Department Coordinator, contributing to college initiatives and community welfare.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section card reveal">
+      <h2 class="section-title">Contact</h2>
+      <div class="contact-grid">
+        <div>
+          <p class="muted">Interested in working together or need help with a project? Send a message — I reply within a few days.</p>
+          <p><strong>Email:</strong> <a href="mailto:bagwanshoeb0313@gmail.com">bagwanshoeb0313@gmail.com</a></p>
+          <p><strong>Location:</strong> India</p>
+        </div>
+
+        <!-- Contact form (uses EmailJS by default if configured, otherwise mailto fallback) -->
+        <form id="contactForm" class="contact-form" aria-label="Contact form">
+          <input id="name" name="name" type="text" placeholder="Your name" required>
+          <input id="email" name="email" type="email" placeholder="Your email" required>
+          <textarea id="message" name="message" rows="6" placeholder="Message" required></textarea>
+          <button type="submit" class="btn-primary">Send Message</button>
+          <div id="formStatus" class="muted" role="status" aria-live="polite"></div>
+          <a id="mailtoFallback" class="btn-ghost" href="mailto:bagwanshoeb0313@gmail.com" style="display:inline-block;margin-top:8px">Send via email</a>
+        </form>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div>© <span id="year"></span> Shoeb Bagwan • Built with ❤️</div>
+    </footer>
+  </main>
+
+  <!-- EmailJS -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/index.min.js"></script>
+  <script type="text/javascript">
+    emailjs.init('opaEXnmMXkxADJNfN'); // EmailJS public key inserted
+  </script>
+
+  <script src="assets/script.js" defer></script>
+</body>
+</html>
 
